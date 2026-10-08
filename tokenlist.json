@@ -1,0 +1,21 @@
+{
+  "name": "POLX Token List",
+  "logoURI": "https://raw.githubusercontent.com/polixhq-cloud/POLX/main/logo.png",
+  "keywords": ["polx", "polix"],
+  "timestamp": "2026-10-08T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xc913C256ac00364e785BA6A83b6E4C4cb6199F03",
+      "name": "POLX",
+      "symbol": "POLX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/polixhq-cloud/POLX/main/logo.png"
+    }
+  ]
+}
